@@ -16,7 +16,7 @@ Este projeto em Java é uma simulação de um sistema de gerenciamento de uma fa
 
 Funcionalidades Principais
 1. Cadastro de Alunos
--> Classe Aluno: Representa um aluno, contendo informações como nome, CPF, e-mail, matrícula e curso. \n
+-> Classe Aluno: Representa um aluno, contendo informações como nome, CPF, e-mail, matrícula e curso. "\n"
 -> Cadastro de Alunos: Utiliza a classe CadastroAluno para armazenar e gerenciar uma lista de alunos.
 -> Interface Gráfica: A classe MenuAluno oferece uma interface gráfica usando JOptionPane para cadastrar, pesquisar, atualizar e remover alunos.
    
