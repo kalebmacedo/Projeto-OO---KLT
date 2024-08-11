@@ -11,10 +11,11 @@ Trabalho Prático de Orientação por Objetos
 - Thiago Viriato Accioly || 231029340
 
 **Sistema de Faculdade** <br>
-Descrição do Projeto <br>
+
+**Descrição do Projeto** <br>
 Este projeto em Java é uma simulação de um sistema de gerenciamento de uma faculdade. Ele permite a criação, consulta, atualização e remoção de registros de alunos, professores, disciplinas e turmas, além de realizar a chamada de alunos inscritos em uma turma específica. 
 
-Funcionalidades Principais 
+**Funcionalidades Principais**
 1. Cadastro de Alunos <br>
 -> Classe Aluno: Representa um aluno, contendo informações como nome, CPF, e-mail, matrícula e curso. <br>
 -> Cadastro de Alunos: Utiliza a classe CadastroAluno para armazenar e gerenciar uma lista de alunos. <br>
