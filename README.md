@@ -46,6 +46,7 @@ Este projeto em Java é uma simulação de um sistema de gerenciamento de uma fa
 Durante a execução do programa, o usuário pode, por exemplo, criar uma nova turma atribuindo um professor e uma disciplina, adicionar alunos a essa turma, e realizar a chamada dos alunos em uma data específica. O resultado da chamada será exibido em uma janela gráfica, mostrando a lista de alunos em ordem alfabética com suas respectivas matrículas. <br>
 
 **Imagens do Funcionamento:**
+![Menu Principal](https://github.com/user-attachments/assets/41c062da-72d5-4f2e-a383-9ac50da04dae)
 
 
 ***Tecnologias Utilizadas <br>
