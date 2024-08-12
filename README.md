@@ -4,7 +4,7 @@ OO - Orientação por Objetos <br>
 Prof. André Luiz Peron Martins Lanna <br>
 
 Trabalho Prático de Orientação por Objetos
---------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Componentes do Grupo:**
 - Kaleb de Souza Macedo || 231026975
 - Lucas Alves Oliveira dos Santos || 231027159
@@ -45,10 +45,13 @@ Este projeto em Java é uma simulação de um sistema de gerenciamento de uma fa
 **Exemplo de Uso** <br>
 Durante a execução do programa, o usuário pode, por exemplo, criar uma nova turma atribuindo um professor e uma disciplina, adicionar alunos a essa turma, e realizar a chamada dos alunos em uma data específica. O resultado da chamada será exibido em uma janela gráfica, mostrando a lista de alunos em ordem alfabética com suas respectivas matrículas. <br>
 
+**Imagens do Funcionamento:**
+
+
 ***Tecnologias Utilizadas <br>
 Java SE: Linguagem de programação principal. <br>
 Swing: Para a criação da interface gráfica com JOptionPane. <br>
 Coleções do Java: Uso de ArrayList para armazenar alunos, professores, disciplinas e turmas.*** <br>
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **UML do Projeto:** <br>
 ![Trabalho Final UML](https://github.com/user-attachments/assets/65ab2481-f1bf-4547-b8f7-e938afb156c4)
