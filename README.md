@@ -52,7 +52,7 @@ Imagens demonstrando o funcionamento de cada parte do sistema.
 
 | Menu Principal | Menu Aluno | Resultado de Cadastramento | Aluno Removido | Aluno Atualizado |
 | :-----------------------------: | :------------: | :----------------------------: | :--------------------------: |:--------------------------: |
-| ![Menu Principal](https://github.com/user-attachments/assets/82d63df1-eac7-4525-b720-e41b4585a865) | ![Menu Aluno]((https://github.com/user-attachments/assets/d130e3f2-9cfe-4a8c-b3dc-a78863bf15ba) | ![Resultado Cadastro](https://github.com/user-attachments/assets/dfac3833-2722-400c-977b-6c3dea1e4f54) | ![Aluno removido](https://github.com/user-attachments/assets/56f75a5f-b7e7-43f2-8cd8-418d3b609b84) | ![Aluno Atualizado](https://github.com/user-attachments/assets/189a7091-836c-41ff-9404-29eddc5c3a76) |
+| ![Menu Principal](https://github.com/user-attachments/assets/82d63df1-eac7-4525-b720-e41b4585a865) | ![Menu Aluno](https://github.com/user-attachments/assets/d130e3f2-9cfe-4a8c-b3dc-a78863bf15ba) | ![Resultado Cadastro](https://github.com/user-attachments/assets/dfac3833-2722-400c-977b-6c3dea1e4f54) | ![Aluno removido](https://github.com/user-attachments/assets/56f75a5f-b7e7-43f2-8cd8-418d3b609b84) | ![Aluno Atualizado](https://github.com/user-attachments/assets/189a7091-836c-41ff-9404-29eddc5c3a76) |
 
 | Menu Professor | Resultado do Cadastramento | Professor Removido | Professor Atualizado |
 | :-----------------------------: | :------------: | :----------------------------: | :--------------------------: |
