@@ -52,7 +52,7 @@ Imagens demonstrando o funcionamento de cada parte do sistema.
 
 | Tela específica de cada cadastro | Tela dos CRUDs | Tela de preenchimento de dados | Tela de sucesso ao cadastrar |
 | :-----------------------------: | :------------: | :----------------------------: | :--------------------------: |
-| ![Tela Cadastro](caminho-para-imagem1.png) | ![Tela CRUD](caminho-para-imagem2.png) | ![Tela Preenchimento](caminho-para-imagem3.png) | ![Tela Sucesso](caminho-para-imagem4.png) |
+| ![Tela Cadastro](https://github.com/user-attachments/assets/82d63df1-eac7-4525-b720-e41b4585a865) | ![Tela CRUD](caminho-para-imagem2.png) | ![Tela Preenchimento](caminho-para-imagem3.png) | ![Tela Sucesso](caminho-para-imagem4.png) |
 
 | Tela específica de cada cadastro | Tela dos CRUDs | Tela de preenchimento de dados | Tela de sucesso ao pesquisar |
 | :-----------------------------: | :------------: | :----------------------------: | :--------------------------: |
