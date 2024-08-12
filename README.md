@@ -45,13 +45,18 @@ Este projeto em Java é uma simulação de um sistema de gerenciamento de uma fa
 **Exemplo de Uso** <br>
 Durante a execução do programa, o usuário pode, por exemplo, criar uma nova turma atribuindo um professor e uma disciplina, adicionar alunos a essa turma, e realizar a chamada dos alunos em uma data específica. O resultado da chamada será exibido em uma janela gráfica, mostrando a lista de alunos em ordem alfabética com suas respectivas matrículas. <br>
 
-**Imagens do Funcionamento:** <br>
+## 🖥️ Exemplos de execução
 
+### Imagens de funcionamento do programa:
+Imagens demonstrando o funcionamento de cada parte do sistema.
 
+| Tela específica de cada cadastro | Tela dos CRUDs | Tela de preenchimento de dados | Tela de sucesso ao cadastrar |
+| :-----------------------------: | :------------: | :----------------------------: | :--------------------------: |
+| ![Tela Cadastro](caminho-para-imagem1.png) | ![Tela CRUD](caminho-para-imagem2.png) | ![Tela Preenchimento](caminho-para-imagem3.png) | ![Tela Sucesso](caminho-para-imagem4.png) |
 
-
-
-
+| Tela específica de cada cadastro | Tela dos CRUDs | Tela de preenchimento de dados | Tela de sucesso ao pesquisar |
+| :-----------------------------: | :------------: | :----------------------------: | :--------------------------: |
+| ![Tela Cadastro](caminho-para-imagem5.png) | ![Tela CRUD](caminho-para-imagem6.png) | ![Tela Preenchimento](caminho-para-imagem7.png) | ![Tela Sucesso](caminho-para-imagem8.png) |
 
 ***Tecnologias Utilizadas <br>
 Java SE: Linguagem de programação principal. <br>
