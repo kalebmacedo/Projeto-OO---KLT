@@ -48,7 +48,6 @@ Durante a execução do programa, o usuário pode, por exemplo, criar uma nova t
 ## 🖥️ Exemplos de execução
 
 ### Imagens de funcionamento do programa:
-Imagens demonstrando o funcionamento de cada parte do sistema.
 
 | Menu Principal | Menu Aluno | Resultado de Cadastramento | Aluno Removido | Aluno Atualizado |
 | :-----------------------------: | :------------: | :----------------------------: | :--------------------------: |:--------------------------: |
